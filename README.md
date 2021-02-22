@@ -6,7 +6,7 @@
 
 ### Hello World 👋 I am [Ashraful Malik](https://github.com/Ashraful-malik)
 
-[![My website](https://img.shields.io/badge/-My Website-D14836?style=for-the-badge&logo=Website&logoColor=white)](https://ashraful-malik.netlify.app/)
+[![My website](https://img.shields.io/badge/-Website-D14836?style=for-the-badge&logo=Website&logoColor=white)](https://ashraful-malik.netlify.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13582?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashraful_malik_/)
 <div>
   
