@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <h2 align="center">Welcome to my Profile</h2>
+ <h2 align="center" color="blue">Welcome to my Profile</h2>
 </p>
 
 ### Hello World 👋 I am [Ashraful Malik](https://github.com/Ashraful-malik)
