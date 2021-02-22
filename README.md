@@ -31,12 +31,11 @@
 
 <div><p>My overview: </p></div>
 
-![Ashraful-malik's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+![Ashraful-malik's github stats](https://github-readme-stats.vercel.app/api?username=Ashraful-malik&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ashrafil-malik.)
 
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
+⭐️ From [Ashraful-malik](https://github.com/TomasCostaK/TomasCostaK) 
 
 <br />
