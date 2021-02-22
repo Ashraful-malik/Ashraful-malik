@@ -14,7 +14,8 @@
 <p>
  
 - 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, mongoDB **
-- ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
+- ⚡ Fun fact:There are over **700** different programming languages!.
+- 📒 Learning && Living
 
 </h4>
 </div>
