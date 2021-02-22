@@ -6,15 +6,7 @@
 
 ### Hello World 👋 I am [Ashraful Mlaik](https://github.com/Ashraful-malik)
 
-<a href="https://www.linkedin.com/in/tomascostax/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://youtube.com">
-  <img align="left" alt="TomasCostaK Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com">
-  <img align="left" alt="TomasCostaK Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Ashrafulmalik71@gmail.com)
 
 <div>
   
