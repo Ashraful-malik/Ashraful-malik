@@ -20,11 +20,8 @@
   
 <br />
 <p>
-
-- 🔭 I’m currently working on **a colorful way of listing my projects using VueJS**
-- 🌱 I’m currently learning **VueJs, Django, ExpressJS, DiscordJS**
-- 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 Ask me about **anything**
+ 
+- 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, mongoDB **
 - ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 </h4>
@@ -34,11 +31,11 @@
 
 <div><p>My overview: </p></div>
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+![Ashraful-malik's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ashrafil-malik.)
 
 ⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
 
