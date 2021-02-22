@@ -6,7 +6,7 @@
 
 ### Hello World 👋 I am [Ashraful Mlaik](https://github.com/Ashraful-malik)
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Ashrafulmalik71@gmail.com)
+[![website](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Ashrafulmalik71@gmail.com)
 
 <div>
   
