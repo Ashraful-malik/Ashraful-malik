@@ -9,7 +9,7 @@
 <br />
 <p>
  
-- 🌱 I’m currently learning **VueJs**, **NodeJS**, **ExpressJS**,**mongoDB**
+- 🌱 I’m currently learning **VueJs**, **nuxt js**, **uiDesign**,**Webdevelopment**
 - ⚡ Fun fact:There are over **700** different programming languages!.
 - 📒 Learning && Living
 - 📫 Ashrafulmalik71@gmail.com: ...
