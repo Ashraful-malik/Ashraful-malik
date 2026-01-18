@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **VueJs**, **nuxt js**, **uiDesign**,**Webdevelopment**
 - ⚡ Fun fact:There are over **700** different programming languages!.
 - 📒 Learning && Living
-- 📫 Ashrafulmalik71@gmail.com: ...
 
 [![My website](https://img.shields.io/badge/-Website-D14836?style=for-the-badge&logo=Website&logoColor=white)](https://ashraful-malik.netlify.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13582?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashraful_malik/)
