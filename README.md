@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FullStack**
 
-- 👨‍💻 All of my projects are available at [ashrauflmalik.online](ashrauflmalik.online)
+- 👨‍💻 All of my projects are available at [ashrauflmalik.online](https://ashrafulmalik.vercel.app/)
 
 - 📫 How to reach me **ashraful.inbox@gmail.com**
 
